@@ -9,7 +9,7 @@ print("\nEnter", size, "elements:\n")
 # loop to store the array elements
 for i in range(size):
     # to store the array element
-    element = int(input())
+    element = input()
     # append the element to the array
     array.append(element)
 
